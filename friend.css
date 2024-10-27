@@ -41,7 +41,7 @@
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("https://cdn.discordapp.com/attachments/1105708558361841737/1289092156996190220/peakpx.jpg?ex=66f79020&is=66f63ea0&hm=0cce1879a3a7275be94fd93c509334a167409b803a60825f5760729f035561aa&");
+    --wallpaper: url("https://res.cloudinary.com/js-create/image/upload/v1730004278/friend.jpg");
     /*modern background selection*/
     --modern-dark-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-dark-bg.png");
     --modern-light-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-light-bg.png");
